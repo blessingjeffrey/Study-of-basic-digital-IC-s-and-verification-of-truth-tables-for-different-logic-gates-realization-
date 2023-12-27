@@ -1,5 +1,5 @@
 NAME:BLESSING JEFFREY Y.L<br>
-REFENCE NUMBER:23014065
+REFENCE NUMBER:212223220014
 ## Experiment-01 Study of basic digital IC s and verification of truth tables for different logic gates realization.
  
 ## AIM:
